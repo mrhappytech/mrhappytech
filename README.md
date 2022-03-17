@@ -15,7 +15,7 @@
 
 ## 💬 About me
 
-My name is Václav Šrámek and I am IT Nerd✨/Architect/DevOps engineer from Czech republic.
+My name is Václav Šrámek and I am IT Nerd✨ / Architect / Developer / DevOps engineer from Czech republic.
 
 I work mostly with Java, Linux and Cloud.
 
